@@ -144,18 +144,17 @@ will the mirage finally give way to meaning.
 
 ## Appendix: Distinction from Avatarization and Anonymization Technologies
 
-It is important to clarify that **the Mirage Metric does not criticize avatarization or anonymization technologies** themselves.  
-These are separate and often **well-developed** technological fields, including 3D avatar rendering, face anonymization, and body-motion masking, which already operate at high levels of visual realism and computational precision.
+It is important to clarify that The Mirage Metric does not criticize avatarization or anonymization technologies themselves.
 
-The critique here focuses specifically on **AI-driven translation systems** that attempt to generate or interpret **Sign Language directly from text or video input**.  
-These systems differ fundamentally because they require not just motion accuracy, but **linguistic comprehension**, spatial grammar, timing, facial markers, and the pragmatics of natural Deaf discourse.
+These are separate and often well-developed technological fields, such as 3D avatar rendering, facial anonymization, and motion masking, which already operate with high visual realism and computational precision.
 
-In receptive systems (those attempting to “understand” signs), the situation becomes even more constrained.  
-Deaf users must often modify their signing, slower, smaller, and more limited, to match what the AI can process.  
-In other words, the user is forced to **speak in an artificial, constrained form of their own language**, transforming a natural act of communication into one of adaptation.
+In avatarization, the sign to be executed is already known. The system’s role is to reproduce it, not to interpret or generate new signs, which allows results close to 95% linguistic and visual accuracy. The same applies to anonymization: when real signers are replaced by anonymized avatars, the underlying signing remains human and linguistically correct.
 
-Even highly publicized demonstrations with well-known figures tend to **reinforce the illusion** that the problem is nearly solved, when in reality these projects remain in **very early stages**.  
-Often, it is the participant themselves who performs the signs or simplifies phrases to make the system “work,” resulting in **pseudo-validation** rather than genuine linguistic comprehension.
+The critique here focuses specifically on AI-driven translation systems that attempt to generate or interpret sign language directly from text or video input. Unlike avatarization or anonymization, these systems require not just motion accuracy but actual linguistic comprehension: spatial grammar, timing, facial markers, and the pragmatics of natural Deaf discourse.
+
+In receptive systems (those attempting to “understand” signs), the situation becomes even more constrained. Deaf users must often modify their signing — slower, smaller, and more limited — to match what the AI can process. In other words, the user is forced to communicate in an artificial, reduced form of their own language, turning a natural act of expression into one of adaptation.
+
+Even highly publicized demonstrations featuring well-known figures often reinforce the illusion that the problem is close to being solved, when in reality these projects remain in early experimental stages. Frequently, it is the participant themselves who performs the signs or simplifies phrases to make the system appear to “work,” creating pseudo-validation rather than genuine linguistic comprehension.
 
 ---
 ## Appendix: Validation Testing Protocol

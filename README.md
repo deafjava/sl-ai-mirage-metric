@@ -123,43 +123,6 @@ Each criterion is scored from **0 to 10**, multiplied by its weight, and summed 
 | **Transparency and Ethics** | 15% | Honesty about limitations, data origin, and funding motives. |
 | **Linguistic Fidelity (Grammar + NMFs)** | 25% | Degree to which output aligns with natural SL grammar and non-manual features. |
 
-**Scoring interpretation:**
-- Scores near **100** → authentic innovation and genuine Deaf-led progress.  
-- Scores **70–84** → partial promise with ethical effort.  
-- Scores **50–69** → performative progress, technically interesting but linguistically shallow.  
-- Scores **below 50** → pure mirage, systems built for applause, funding, and visibility.
-
-### Detailed Explanation of Criteria
-
-**1. Data Authenticity (20%)**  
-Evaluates whether the dataset represents natural Sign Language use, ethically collected and validated by Deaf experts.  
-Projects using artificial or translated data without linguistic oversight score low.
-
-**2. Feedback Integration (20%)**  
-Assesses whether there is a continuous *human-in-the-loop* process, regular correction, retraining, and iteration.  
-Without live correction cycles, systems stagnate in error replication.
-
-**3. Real Deaf Adoption (20%)**  
-Measures organic, voluntary use by Deaf individuals outside demonstration settings.  
-If Deaf people use it only when paid or prompted, it indicates performance, not adoption.
-
-**4. Transparency and Ethics (15%)**  
-Evaluates the honesty of the project: are limitations, data sources, and funding motivations openly disclosed?  
-Opacity and marketing-driven messaging reduce credibility.
-
-**5. Linguistic Fidelity (25%)**  
-Assesses whether the AI’s signing follows natural Sign Language grammar, including **non-manual features (NMFs)** like facial and body expressions.  
-Fluent structure and expressive precision mark authentic progress.
-
-### Interpretive Ranges
-
-| Score Range | Classification | Interpretation |
-|--------------|----------------|----------------|
-| **85–100** | Authentic Innovation | Linguistic and ethical excellence; real community impact. |
-| **70–84** | Ethical Promise | Responsible innovation with room for improvement. |
-| **50–69** | Performative Progress | Technical skill without linguistic grounding. |
-| **Below 50** | Mirage | Built for applause and funding, not communication. |
-
 ---
 
 ## 9. Conclusion
@@ -178,7 +141,24 @@ will the mirage finally give way to meaning.
 
 ---
 
-### Informal Copyright Notice
+## Appendix: Distinction from Avatarization and Anonymization Technologies
+
+It is important to clarify that **the Mirage Metric does not criticize avatarization or anonymization technologies** themselves.  
+These are separate and often **well-developed** technological fields, including 3D avatar rendering, face anonymization, and body-motion masking, which already operate at high levels of visual realism and computational precision.
+
+The critique here focuses specifically on **AI-driven translation systems** that attempt to generate or interpret **Sign Language directly from text or video input**.  
+These systems differ fundamentally because they require not just motion accuracy, but **linguistic comprehension**, spatial grammar, timing, facial markers, and the pragmatics of natural Deaf discourse.
+
+In receptive systems (those attempting to “understand” signs), the situation becomes even more constrained.  
+Deaf users must often modify their signing, slower, smaller, and more limited, to match what the AI can process.  
+In other words, the user is forced to **speak in an artificial, constrained form of their own language**, transforming a natural act of communication into one of adaptation.
+
+Even highly publicized demonstrations with well-known figures tend to **reinforce the illusion** that the problem is nearly solved, when in reality these projects remain in **very early stages**.  
+Often, it is the participant themselves who performs the signs or simplifies phrases to make the system “work,” resulting in **pseudo-validation** rather than genuine linguistic comprehension.
+
+---
+
+### Copyright
 
 © 2025 **Caio Cascaes**  
 _All rights of concept, structure, and expression reserved._  

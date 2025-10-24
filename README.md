@@ -152,7 +152,7 @@ In avatarization, the sign to be executed is already known. The system’s role 
 
 The critique here focuses specifically on AI-driven translation systems that attempt to generate or interpret sign language directly from text or video input. Unlike avatarization or anonymization, these systems require not just motion accuracy but actual linguistic comprehension: spatial grammar, timing, facial markers, and the pragmatics of natural Deaf discourse.
 
-In receptive systems (those attempting to “understand” signs), the situation becomes even more constrained. Deaf users must often modify their signing — slower, smaller, and more limited — to match what the AI can process. In other words, the user is forced to communicate in an artificial, reduced form of their own language, turning a natural act of expression into one of adaptation.
+In receptive systems (those attempting to “understand” signs), the situation becomes even more constrained. Deaf users must often modify their signing, slower, smaller, and more limited, to match what the AI can process. In other words, the user is forced to communicate in an artificial, reduced form of their own language, turning a natural act of expression into one of adaptation.
 
 Even highly publicized demonstrations featuring well-known figures often reinforce the illusion that the problem is close to being solved, when in reality these projects remain in early experimental stages. Frequently, it is the participant themselves who performs the signs or simplifies phrases to make the system appear to “work,” creating pseudo-validation rather than genuine linguistic comprehension.
 

@@ -139,6 +139,7 @@ each new project will simply replay the same illusion, bright, brief, and hollow
 Only when a Deaf person can look at an AI interpreter, understand it instantly, and **choose** to use it freely,  
 will the mirage finally give way to meaning.
 
+
 ---
 
 ## Appendix: Distinction from Avatarization and Anonymization Technologies
@@ -156,6 +157,35 @@ In other words, the user is forced to **speak in an artificial, constrained form
 Even highly publicized demonstrations with well-known figures tend to **reinforce the illusion** that the problem is nearly solved, when in reality these projects remain in **very early stages**.  
 Often, it is the participant themselves who performs the signs or simplifies phrases to make the system “work,” resulting in **pseudo-validation** rather than genuine linguistic comprehension.
 
+---
+## Appendix: Validation Testing Protocol
+
+To ensure credibility and linguistic integrity, a transparent and **community-based validation protocol** must be followed.
+
+### 1. Tester Eligibility
+- The tester **cannot be sponsored** by any member of the project.  
+- The tester **cannot be a member** of the development team.  
+- The tester **cannot be under contract** with any organization related to the project.  
+
+### 2. Text Selection
+- The **text to be translated** must be **freely chosen** by the tester.  
+- Selection must occur **independently** from developers or funders.  
+
+### 3. Community Validation
+- The tester must be **validated by the Deaf community**, either locally or nationally.  
+- Validation should happen through **accessible community platforms** that include **proof of understanding** (e.g., signed demonstration, peer review).  
+- The community should be able to **confirm competence** publicly and transparently.  
+
+### 4. Reproducibility
+- The process must be **repeatable** with new texts and testers, producing consistent comprehension outcomes.  
+- Each iteration must collect **new qualitative feedback**, ensuring that the system’s performance is not memorized but understood.  
+
+### 5. Evaluation Outcome
+- A translation is **validated** only if:
+  - At least **three independent testers**, approved by the community, demonstrate equivalent comprehension.  
+  - Results remain **reproducible** under the same test structure.  
+
+This ensures that validation reflects **real linguistic understanding**, not prearranged success.
 ---
 
 ### Copyright

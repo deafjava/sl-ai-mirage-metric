@@ -3,11 +3,6 @@
 
 ---
 
-#### Concept and Framework by **Caio Cascaes**, October 2025  
-_Informal public record of authorship and publication._
-
----
-
 ## Abstract
 
 Despite frequent headlines about “AI breakthroughs” in Sign Language translation, genuine communicative systems remain far from realization.  

@@ -67,7 +67,7 @@ This illusion repeats endlessly,
 new branding, new investors, same outcome.  
 
 Each project is hailed as the “first real breakthrough,” then fades once the spotlight moves on.  
-At this point, the **Mirage Metric** has logged what feels like the *123e2425456243132nd* iteration of this cycle,  
+At this point, the **Mirage Metric** has logged what feels like the *1232425456243132nd* iteration of this cycle,  
 each one raising funds, hiring consultants, and producing optimism that dissolves before reaching linguistic reality.
 
 ---
